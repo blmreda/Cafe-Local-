@@ -1,0 +1,180 @@
+
+.navbar-nav :hover ,.active{
+    color:darksalmon !important;
+}
+
+.bg-image{
+    background-image:url(./menu2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+     width: 100%;
+}
+.bg-image-acceuil{
+    background-image:url(./banner1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 555px;
+    width: 100%;
+
+}
+.bg-image-menu{
+    background-image:url(./arriereplanmenu.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 555px;
+    width: 100%;
+
+}
+.bg-image-milieu{
+    background-image:url(./arriereplan.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.avant-fin{
+    background-image:url(./avant-fin.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.bg-image-reservation{
+    background-image:url(./reservation.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+}
+.bg-image-restaurent{
+    background-image:url(./restaurant.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+    
+}
+.bg-image-conatct{
+    background-image:url(./imagecontact.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 540px;
+
+
+}
+.bg-transparent-black{
+    background-color: #0E1317;
+}
+.btn {
+    margin-left: 400px;
+}
+.btn-outline-light:hover {
+    color:darksalmon;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+}
+
+.font{
+   font-size: 80px;
+   color: whitesmoke;
+}
+.fontzize{
+    color:#B79292;
+    font-size: 20px;
+}
+.section-bg{
+    background-color: #090c0f;
+}
+.image :hover{
+    transform: scale(1.1);
+    filter: brightness(1.2);
+
+}
+.blocked-image {
+    pointer-events: none; /* Désactive les événements de pointeur (clic, survol, etc.) */
+}
+.bg-menu{
+    background-color: #090C0F;
+    padding: 50px;
+}
+.bg-text{
+    font-size: 24px;
+}
+.bg-apropos{
+    background-color: #0e1317;
+ }
+.text-whitesmok{
+    color: #FFFFFF99;
+}
+.size{
+    font-size: 25px;
+}
+.btn-2{
+    margin-left: 0px;
+}
+.bg-ClientsSay{
+    background-color:#090C0F;
+    padding: 50px;
+
+}
+.bg-client{
+    background-color: #0E1317;
+}
+.size-nom{
+    font-size: 24px;
+}
+.text-color{
+    color: darksalmon;
+}
+.bg-fin{
+    background-color:  #0e1317;
+}
+.btn-3{
+    margin-left: 0px;
+}
+.bg-design{
+    background-color: #090C0F;
+}
+.nom {
+    font-size: 20px;
+}
+@media only screen and (max-width: 500px) {
+    .text-xs-center{
+        text-align: center;
+
+    }
+    .font{
+        font-size: 50px;
+    }
+    .nv2{
+        display: none;
+    }
+    .hhhh{
+        text-align: justify;
+    }
+    .none{
+        display: none;
+    }
+    .tel{
+        text-align: center;
+    }
+    
+      
+    
+}
+@media only screen and (min-width: 400px) {
+    .nv{
+        display: none;
+    }
+    .navbar-nav {
+        margin-left: 400px;
+    }
+    
+    
+      
+    
+}
+.collapsibleNavbar{
+    color: white;
+}
+
+  
